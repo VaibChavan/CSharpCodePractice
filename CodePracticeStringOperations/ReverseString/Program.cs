@@ -15,7 +15,7 @@ public class Reverse
 
 class program
 {
-    static void Main(string[] strings)
+    static void Main(string[] args)
     {
         string str = "CSharp";
         Reverse reverse = new Reverse();
