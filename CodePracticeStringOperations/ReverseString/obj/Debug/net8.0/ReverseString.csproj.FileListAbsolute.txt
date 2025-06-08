@@ -1,0 +1,15 @@
+F:\C#_Code_Practice_Repo\CodePracticeStringOperations\ReverseString\bin\Debug\net8.0\ReverseString.exe
+F:\C#_Code_Practice_Repo\CodePracticeStringOperations\ReverseString\bin\Debug\net8.0\ReverseString.deps.json
+F:\C#_Code_Practice_Repo\CodePracticeStringOperations\ReverseString\bin\Debug\net8.0\ReverseString.runtimeconfig.json
+F:\C#_Code_Practice_Repo\CodePracticeStringOperations\ReverseString\bin\Debug\net8.0\ReverseString.dll
+F:\C#_Code_Practice_Repo\CodePracticeStringOperations\ReverseString\bin\Debug\net8.0\ReverseString.pdb
+F:\C#_Code_Practice_Repo\CodePracticeStringOperations\ReverseString\obj\Debug\net8.0\ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#_Code_Practice_Repo\CodePracticeStringOperations\ReverseString\obj\Debug\net8.0\ReverseString.AssemblyInfoInputs.cache
+F:\C#_Code_Practice_Repo\CodePracticeStringOperations\ReverseString\obj\Debug\net8.0\ReverseString.AssemblyInfo.cs
+F:\C#_Code_Practice_Repo\CodePracticeStringOperations\ReverseString\obj\Debug\net8.0\ReverseString.csproj.CoreCompileInputs.cache
+F:\C#_Code_Practice_Repo\CodePracticeStringOperations\ReverseString\obj\Debug\net8.0\ReverseString.sourcelink.json
+F:\C#_Code_Practice_Repo\CodePracticeStringOperations\ReverseString\obj\Debug\net8.0\ReverseString.dll
+F:\C#_Code_Practice_Repo\CodePracticeStringOperations\ReverseString\obj\Debug\net8.0\refint\ReverseString.dll
+F:\C#_Code_Practice_Repo\CodePracticeStringOperations\ReverseString\obj\Debug\net8.0\ReverseString.pdb
+F:\C#_Code_Practice_Repo\CodePracticeStringOperations\ReverseString\obj\Debug\net8.0\ReverseString.genruntimeconfig.cache
+F:\C#_Code_Practice_Repo\CodePracticeStringOperations\ReverseString\obj\Debug\net8.0\ref\ReverseString.dll
